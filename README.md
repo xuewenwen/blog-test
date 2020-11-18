@@ -1,34 +1,37 @@
-# 标题一
-## 标题二
-### 标题三
+# 薛文文的个人主页
+###     有了坚持不一定成功;但没有坚持,就注定失败！
 
- 这是正文
- 
- 我的爱好是
- 
- 1. 唱歌
- 2.  跳舞
- 3. rap
- 4. 篮球
- 
- 
-我得前女友有
-
-* 小王
-* 小李
-* 小张
-* 小红
-
-### 我的网站是[我的官网](https://baidu.com)![一张图片](1.png)
-
-下面是代码
-
-```javascript
-var a=1
-console.log(a)
-```
-
-```css
-body{
-    background:red;
+## 我的爱好
+ 1. 看书
+ 2. 写代码
+ 3. 跑步
+ 4. 打篮球
+### 我掌握的语言
+* C++
+```C++
+#include <iostream>
+int main(void)
+{
+    std::cout<<"Hello World!";
 }
+````
+* PHP
+```PHP
+
+ echo "Hello World!";
+
+````
+* JAVA
+```JAVA
+
+  System.out.println("Hello World!");
+
+````
+* PYTHON
+```PYTHON
+
+print('Hello World!')
+
+````
+
+### 我的GitHub网站是[我的官网](https://github.com/xuewenwen)![一张图片](1.png)
